@@ -1,1 +1,1 @@
-https://github.com/Rumball7 - automatic
+https://github.com/Rumball7
