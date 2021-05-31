@@ -6,9 +6,9 @@ Hi I'm Tim Rumball Solution provider in Victoria BC
 Along with coding and buisness stratigy, I also like burgers. 
 <br>
 Best burgers in Victora:<br>
-[] Pink Bike <br>
-[] Bin 4 <br>
-[] Big Wheel <br>
+- Pink Bike <br>
+- Bin 4 <br>
+- Big Wheel <br>
 
 <br>
 
