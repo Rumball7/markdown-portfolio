@@ -2,9 +2,11 @@
 layout: default
 ---
 
+
 Hi I'm Tim Rumball Solution provider in Victoria BC
 <br>
-Along with coding and buisness stratigy, I also like burgers. 
+Along with coding and buisness stratigy, I also like burgers. <br>
+Best burgers in Victora:<br>
 <br>
 
 
@@ -19,9 +21,6 @@ Along with coding and buisness stratigy, I also like burgers.
 <br>
 
 {% include 04-lists.md %}
-
-<br>
-Best burgers in Victora:<br>
 - Pink Bike <br>
 - Bin 4 <br>
 - Big Wheel <br>
