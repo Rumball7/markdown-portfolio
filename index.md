@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-
-{% include 01-name.md %}
+Hi I'm Tim Rumball Solution provider in Victoria BC
+Along with coding and buisness stratigy, I also like burgers. 
+Best burgers in Victora:
+[] Pink Bike
+[] Bin 4
+[] Big Wheel
 
 <br>
 
