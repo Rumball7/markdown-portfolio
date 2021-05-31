@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 Hi I'm Tim Rumball Solution provider in Victoria BC
 <br>
 Along with coding and buisness stratigy, I also like burgers. 
